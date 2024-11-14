@@ -1,0 +1,8 @@
+﻿  Archer.cpp
+C:\Users\parkj\Desktop\PJH247118\Battle\AggorBattle_JHP\AggorBattle_JHP\Objects\Archer.cpp(21,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Mage.cpp
+C:\Users\parkj\Desktop\PJH247118\Battle\AggorBattle_JHP\AggorBattle_JHP\Objects\Mage.cpp(22,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  World.cpp
+C:\Users\parkj\Desktop\PJH247118\Battle\AggorBattle_JHP\AggorBattle_JHP\World\World.cpp(13,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+  AggorBattle_JHP.vcxproj -> C:\Users\parkj\Desktop\PJH247118\Battle\AggorBattle_JHP\Debug\AggorBattle_JHP.exe
