@@ -401,5 +401,5 @@ FodyWeavers.xsd
 
 # MyGitignore
 *.vs
-*.Debug
-*.x64
+*Debug
+*x64
